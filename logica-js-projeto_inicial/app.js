@@ -5,6 +5,9 @@ console.log(numeroSecreto);
 let chute;
 let tentativas = 1;
 
+//adicionado comentário
+
+
 // enquanto chute não for igual a numeroSecreto
 while (chute != numeroSecreto){
     chute = prompt(`Digite um número entre 1 e ${numeroMaximo}`);
